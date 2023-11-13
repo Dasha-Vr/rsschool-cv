@@ -7,9 +7,7 @@
 * **GitHub** Dasha-Vr
 * **Discord** Da_sha#2973
 ## Summary
-I study programming for about a year. I have adaptive and Perfect Pixel layout skills. 
-I have successfully completed several student projects and continue to progress as a frontend developer. 
-My goal is to use my programming skills in real JavaScript projects.
+
 ## Skills
 * **Web development:** HTML, CSS, JavaScript
 * **Version control:** GitHub
